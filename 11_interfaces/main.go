@@ -20,6 +20,7 @@ type Rectangle struct {
 	width, height float64
 }
 
+// test for github creds
 func (c Circle) area() float64 {
 	return math.Pi * c.radius * c.radius
 }
